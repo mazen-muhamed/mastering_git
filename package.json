@@ -1,0 +1,21 @@
+{
+  "name": "mastering-git",
+  "version": "1.0.0",
+  "description": "Welcome From mazen , let's master Devops",
+  "main": "index.js",
+  "scripts": {
+    "run" : "node index.js",
+    "test": "node test.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mazen-muhamed/mastering_git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mazen-muhamed/mastering_git/issues"
+  },
+  "homepage": "https://github.com/mazen-muhamed/mastering_git#readme"
+}
